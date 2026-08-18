@@ -40,14 +40,14 @@
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lc05122007&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU-USUARIO&theme=radical" alt="Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lc05122007&theme=radical" alt="Streak"/>
 </p>
 
-> ⚠️ Troque `SEU-USUARIO` pelo seu nome de usuário do GitHub nos links acima.
+
 
 ---
 
@@ -59,7 +59,7 @@
   </a>
 </p>
 
-*(Assim que você criar seus primeiros repositórios, é só trocar `nome-do-projeto` pelo nome real de cada um para exibi-los aqui.)*
+
 
 ---
 
